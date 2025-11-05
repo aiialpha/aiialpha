@@ -2,6 +2,14 @@
 🔭 I’m currently working on Stormcoin<br>👯 I’m looking to collaborate on Building decentralized solutions <br>🌱 I’m currently learning Decentralized Applications (DApps)<br>💬 Ask me about JavaScript, React and Nodejs<br>😄 Pronouns: he/him
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=shahradelahi">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shahradelahi?style=flat&label=Stars&color=%23e3b341">
+</p>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Ahmad](https://www.facebook.com/profile.php?id=100029035925497&mibextid=ZbWKwL)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aiialpha1?igsh=MWlscTd0amhwcnNpNA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aiialpha) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aiialpha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16018879) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aiialpha1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Aiialpha) 
 
